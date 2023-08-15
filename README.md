@@ -35,6 +35,7 @@
 - Enthusiastic
 - Always learning
 - Thinking and moving As Sharp As Knife
+- Organized
 
 # 
 <p>
