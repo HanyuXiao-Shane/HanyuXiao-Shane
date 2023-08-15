@@ -1,4 +1,39 @@
-### Hi there 👋
+# Hey, Nice to see you there! 👋
+
+<div align="center">
+
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!!!;WelCome+To+Shane's+Space!!!&center=true" alt="Typing SVG">
+  </div>
+
+  <img align="middle" width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" /><br>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/UMass-red"/></a>&emsp;
+    <img src="https://img.shields.io/badge/Statistics-blue"/></a>&emsp;
+    <img src="https://img.shields.io/badge/Bayesian Inference-yellow"/></a>&emsp;
+    <img src="https://img.shields.io/badge/MCMC-green"/></a>&emsp;
+    <img src="https://img.shields.io/badge/R-black"/></a>&emsp;
+    <img src="https://img.shields.io/badge/Python-purple"/></a>&emsp;
+    <img src="https://img.shields.io/badge/Still_learning...-white"/>
+  </div>
+
+</div>
+
+#
+
+<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+
+<p>Welcome to my page! </br> My name is Hanyu, but you may find it more convenient to call me Shane. I am currently pursuing a Master's degree in Statistics at the University of Massachusetts 
+  Amherst. As I near the completion of my graduate studies, I have begun to actively prepare for my next academic challenge: applying for a Ph.D. program in my field. My goal is to continue to deepen my 
+  understanding and contribute to the field of statistics through advanced research.
+</p>
+
+# 
+<p>
+<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" />
+<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" />
+<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/play.png" />
 
 <!--
 **HanyuXiao-Shane/HanyuXiao-Shane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
