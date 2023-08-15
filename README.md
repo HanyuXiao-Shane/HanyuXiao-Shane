@@ -29,12 +29,23 @@
   understanding and contribute to the field of statistics through advanced research.
 </p>
 
+#
+
+- A man full of positive energy
+- Enthusiastic
+- Always learning
+- Thinking and moving As Sharp As Knife
+
 # 
 <p>
-<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" />
-<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" />
-<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/play.png" />
-<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" />
+<img align="left" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" />
+<img align="left" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/play.png" />
+<img align="left" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" />
+<img align="left" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+<img align="left" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+<img align="left" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" />
+<img align="left" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />
+
 
 <!--
 **HanyuXiao-Shane/HanyuXiao-Shane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
