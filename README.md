@@ -34,6 +34,7 @@
 <img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" />
 <img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" />
 <img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/play.png" />
+<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" />
 
 <!--
 **HanyuXiao-Shane/HanyuXiao-Shane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
