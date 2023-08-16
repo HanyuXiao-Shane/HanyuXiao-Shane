@@ -31,22 +31,23 @@
 
 #
 
-- A man full of positive energy
-- Enthusiastic
-- Always learning
-- Thinking and moving As Sharp As Knife
-- Organized
+- 😝 A man full of positive energy
+- 🙋‍♂️ Enthusiastic
+- 💭 Always learning
+- 💨 Thinking and moving As Sharp As Knife
+- 👨‍💻 Organized
+- 🧗 Strong determination
 
 # 
-<p>
-<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" />
-<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/play.png" />
-<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" />
-<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
-<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" />
-<img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />
-
+<div>
+  <img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" />
+  <img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/play.png" />
+  <img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" />
+  <img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+  <img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+  <img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" />
+  <img align="left" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />
+</div>
 
 <!--
 **HanyuXiao-Shane/HanyuXiao-Shane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
