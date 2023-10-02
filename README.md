@@ -11,7 +11,7 @@
   <div align="center">
     <img src="https://img.shields.io/badge/UMass-red"/></a>&emsp;
     <img src="https://img.shields.io/badge/Statistics-blue"/></a>&emsp;
-    <img src="https://img.shields.io/badge/Bayesian Inference-yellow"/></a>&emsp;
+    <img src="https://img.shields.io/badge/Bayesian Method-yellow"/></a>&emsp;
     <img src="https://img.shields.io/badge/MCMC-green"/></a>&emsp;
     <img src="https://img.shields.io/badge/R-black"/></a>&emsp;
     <img src="https://img.shields.io/badge/Python-purple"/></a>&emsp;
