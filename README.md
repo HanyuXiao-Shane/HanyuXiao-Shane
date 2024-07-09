@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/MCMC-green"/></a>&emsp;
     <img src="https://img.shields.io/badge/Causal Inference-orange"/>
     <img src="https://img.shields.io/badge/Gaussian Process-grey"/>
+    <img src="https://img.shields.io/badge/Social Science-darkblue"/>
     <img src="https://img.shields.io/badge/R-black"/></a>&emsp;
     <img src="https://img.shields.io/badge/Python-purple"/></a>&emsp;
     <img src="https://img.shields.io/badge/Still_learning...-white"/>
@@ -26,7 +27,7 @@
 
 <img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
-<p>Welcome to my page! </br> My name is Hanyu, but you may find it more convenient to call me Shane. I am currently pursuing a Master's degree in Statistics at the University of Massachusetts 
+<p>Welcome to my page! </br> My name is Hanyu, also Shane. I am currently pursuing a Master's degree in Statistics at University of Massachusetts 
   Amherst. As I near the completion of my graduate studies, I have begun to actively prepare for my next academic challenge: applying for a Ph.D. program in my field. My goal is to continue to deepen my 
   understanding and contribute to the field of statistics through advanced research.
 </p>
