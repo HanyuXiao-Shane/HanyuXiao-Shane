@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/Statistics-blue"/></a>&emsp;
     <img src="https://img.shields.io/badge/Bayesian Method-yellow"/></a>&emsp;
     <img src="https://img.shields.io/badge/MCMC-green"/></a>&emsp;
-    <img src="https://img.shields.io/badge/Causal Inference-orange"/>
-    <img src="https://img.shields.io/badge/Gaussian Process-grey"/>
-    <img src="https://img.shields.io/badge/Social Science-darkblue"/>
+    <img src="https://img.shields.io/badge/Causal Inference-orange"/></a>&emsp;
+    <img src="https://img.shields.io/badge/Gaussian Process-grey"/></a>&emsp;
+    <img src="https://img.shields.io/badge/Social Science-darkblue"/></a>&emsp;
     <img src="https://img.shields.io/badge/R-black"/></a>&emsp;
     <img src="https://img.shields.io/badge/Python-purple"/></a>&emsp;
     <img src="https://img.shields.io/badge/Still_learning...-white"/>
